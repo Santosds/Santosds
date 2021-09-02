@@ -1,25 +1,25 @@
 <span align="center">
 
-## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Hello, obrigadoo por aparecer por aqui!</h2>
+## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Hello, welcome!</h2>
 
 </span>
 
 <div align="center">
 
-<img src="https://www.canva.com/design/DAEo1J0MI9I/DrHS-dp7wD4DFd8WwkSpag/view?utm_content=DAEo1J0MI9I&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview" width="700px" />
+<img src="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.canva.com%2Fdesign%2FDAEo1J0MI9I%2FDrHS-dp7wD4DFd8WwkSpag%2Fview%3Futm_content%3DDAEo1J0MI9I%26utm_campaign%3Ddesignshare%26utm_medium%3Dlink%26utm_source%3Dpublishsharelink%26mode%3Dpreview%26fbclid%3DIwAR3ceF58hFkp12ubWhHkcUKNjW6aSX9cFejRpVP9CxWoOth7B9rUyP_KDzs&h=AT1fhSepvHqg171FFCyAlkiyBQuq4N8977CMhB4kJtUyQ9svZdH3qKem7H9UD_xQMBJztoODeniTNAXhkx5HmPDriZXNZDrD_k3U1Nrz8ivJkLcFk22m60LkkhDfRcQsIwZO&__tn__=-UK-R&c[0]=AT0AolEHyazV96A5jzR6OzqRFeG6LMRFohb0xAoTbF4tsGcK8hnhmQ2ctauskQpNMNNUMSY7DFD-bZ1yfVdzHgseQHPhVKPK8MOd0aoA6OL3LACNEifFLFcoi5WLrhH-y8Js" width="700px" />
 
 </div>
 
 
 <br>
 <p align="center">
-  Sou estudante de  <strong>Ciência de Dados</strong> e <strong>Estudante de Programação JavaScript</strong>.<br />
-<strong>Tenho muitos sonhos </strong> um deles, me tornar <strong>Programador,</strong>
+  Sou estudante de  <strong>Ciência de Dados</strong> e <strong>Programação JavaScript</strong>.<br />
+<strong>Tenho muitos sonhos, </strong> um deles: me tornar <strong>Programador,</strong>
 e conseguir <strong>fazer parte de algo</strong> que possa <strong>mudar a vida de todas as pessoas</strong>.
 </p>
 
 <p align="center">
-  💼 Skills: <strong>Nunca desistir e sempre me levanar.</strong>
+  💼 Skills: <strong>Nunca desistir e sempre me levantar.</strong>
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ e conseguir <strong>fazer parte de algo</strong> que possa <strong>mudar a vida 
  
  <img src="https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
  <img src="https://img.shields.io/badge/-Typecript-%23007ACC?style=flat-square&logo=typescript&logoColor=white" height="25"/>
- <img src="https://img.shields.io/badge/-Angular-%23DD0031?style=flat-square&logo=angular&logoColor=white" height="25"/>
+
 
 
 <img src="https://img.shields.io/badge/-Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" height="25"/>
